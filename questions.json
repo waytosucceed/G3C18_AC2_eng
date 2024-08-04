@@ -1,0 +1,288 @@
+[
+  {
+      "questionNo": "Q1.",
+      "question": "Which of the following sentences uses commas correctly?",
+      "options": [
+          "I like to eat apples bananas, and oranges.",
+          "I like to eat, apples, bananas and oranges.",
+          "I like to eat apples, bananas, and oranges.",
+          "I like to eat apples bananas and, oranges."
+      ],
+      "correct": 2,
+      "explanation": "Commas are used to separate items in a list."
+  },
+  {
+      "questionNo": "Q2.",
+      "question": "Is the placement of comma correct in the sentence “After school, I like to play soccer”?",
+      "options": [
+          "Yes",
+          "No"
+      ],
+      "correct": 0,
+      "explanation": "A comma is used to separate the introductory phrase 'After school' from the rest of the sentence."
+  },
+  {
+      "questionNo": "Q3.",
+      "question": "Which of the following is capitalised correctly?",
+      "options": [
+          "we",
+          "i",
+          "What",
+          "where"
+      ],
+      "correct": 2,
+      "explanation": "'What' is capitalised correctly because it is the first word in the list and would be capitalised if it were at the beginning of a sentence."
+  },
+  {
+      "questionNo": "Q4.",
+      "question": "Fill in the blank with the correct capitalisation: I live in _____.",
+      "options": [
+          "new york city",
+          "New York City",
+          "new york city",
+          "New York city"
+      ],
+      "correct": 1,
+      "explanation": "Proper names of places, like 'New York City,' should be capitalised."
+  },
+  {
+      "questionNo": "Q5.",
+      "question": "Which of the following sentences correctly shows belonging for a singular noun?",
+      "options": [
+          "The dog's bone was buried in the backyard.",
+          "The dogs' bone was buried in the backyard.",
+          "The dog bone was buried in the backyard.",
+          "The dog's' bone was buried in the backyard."
+      ],
+      "correct": 0,
+      "explanation": "To show belonging for a singular noun, an apostrophe 's' is added after the noun (dog's)."
+  },
+  {
+      "questionNo": "Q6.",
+      "question": "Which of the following is capitalised correctly?",
+      "options": [
+          "My friend sarah is coming over.",
+          "My friend Sarah is coming over.",
+          "my friend Sarah is coming over.",
+          "My Friend Sarah is coming over."
+      ],
+      "correct": 1,
+      "explanation": "The first word of the sentence and proper names, such as 'Sarah,' should be capitalised."
+  },
+  {
+      "questionNo": "Q7.",
+      "question": "Fill in the blank with the correct form to show belonging for a plural noun: The _____ toys were scattered all over the room.",
+      "options": [
+          "childrens'",
+          "children's",
+          "childrens",
+          "children'"
+      ],
+      "correct": 1,
+      "explanation": "To show belonging for a plural noun, an apostrophe ' is added after the plural form (children's)."
+  },
+  {
+      "questionNo": "Q8.",
+      "question": "Which of the following sentences correctly shows belonging for a singular noun whose name ends in 's'?",
+      "options": [
+          "The bus' schedule was delayed.",
+          "The bus's schedule was delayed.",
+          "The buses' schedule was delayed.",
+          "The buss' schedule was delayed."
+      ],
+      "correct": 1,
+      "explanation": "For singular nouns ending in 's,' the apostrophe 's' is still added after the noun to show belonging (bus's)."
+  },
+  {
+      "questionNo": "Q9.",
+      "question": "Which of the following sentences uses commas correctly?",
+      "options": [
+          "I went to the, store and bought apples, oranges and, bananas.",
+          "I went to the store and bought apples, oranges, and bananas.",
+          "I went, to the store and bought apples, oranges, and bananas.",
+          "I went to the store and I bought apples oranges, and bananas."
+      ],
+      "correct": 1,
+      "explanation": "Commas are used to separate items in a list and to separate independent clauses joined by a conjunction (and, but, or)."
+  },
+  {
+      "questionNo": "Q10.",
+      "question": "Commas are used to separate the day from the date when writing a date.",
+      "options": [
+          "True",
+          "False"
+      ],
+      "correct": 0,
+      "explanation": "Commas are used to separate the day from the date when writing a date (e.g., On Monday, June 5th, we went to the zoo)."
+  },
+  {
+      "questionNo": "Q11.",
+      "question": "Fill in the blank with the correct symbol: The dog ____ a friendly golden retriever ____ wagged its tail.",
+      "options": [
+          "\"",
+          ".",
+          ",",
+          ";"
+      ],
+      "correct": 2,
+      "explanation": "Commas are used to separate 'a friendly golden retriever' from the rest of the sentence."
+  },
+  {
+      "questionNo": "Q12.",
+      "question": "Which of the following is capitalised correctly?",
+      "options": [
+          "The smithsonian museum in washington, d.c.",
+          "The Smithsonian Museum in washington, d.c.",
+          "The Smithsonian Museum in Washington, D.C.",
+          "The smithsonian museum in Washington, d.c."
+      ],
+      "correct": 2,
+      "explanation": "Proper names of institutions and places should be capitalised."
+  },
+  {
+      "questionNo": "Q13.",
+      "question": "Fill in the blank with the correct capitalization: We celebrate _____ on December 25th.",
+      "options": [
+          "christmas",
+          "Christmas",
+          "CHRISTMAS",
+          "christmas"
+      ],
+      "correct": 1,
+      "explanation": "Holidays, like 'Christmas,' should be capitalised."
+  },
+  {
+      "questionNo": "Q14.",
+      "question": "Titles like 'Mom' or 'Dad' should be capitalised.",
+      "options": [
+          "True",
+          "False"
+      ],
+      "correct": 0,
+      "explanation": "Titles like 'Mom' and 'Dad' should be capitalised to show respect."
+  },
+  {
+      "questionNo": "Q15.",
+      "question": "Which of the following sentences uses commas correctly?",
+      "options": [
+          "I invited, John, Sarah and Mike to the party.",
+          "I invited John, Sarah, and Mike to the party.",
+          "I invited John Sarah and Mike to the party.",
+          "I invited John, Sarah and, Mike to the party."
+      ],
+      "correct": 1,
+      "explanation": "Commas are used to separate items in a list."
+  },
+  {
+      "questionNo": "Q16.",
+      "question": "Which sentence is correctly capitalised?",
+      "options": [
+          "My favorite season is spring.",
+          "my favorite season is Spring.",
+          "My Favorite season is spring.",
+          "my favorite season is spring."
+      ],
+      "correct": 0,
+      "explanation": "My is capitalised as the first word, and 'spring' is not a proper noun, so it is not capitalised."
+  },
+  {
+      "questionNo": "Q17.",
+      "question": "Which sentence uses commas correctly?",
+      "options": [
+          "The concert, was exciting, loud and fun.",
+          "The concert was exciting, loud, and fun.",
+          "The concert was exciting loud, and fun.",
+          "The concert was exciting, loud and, fun."
+      ],
+      "correct": 1,
+      "explanation": "Commas separate items in a list, and the comma here is used before 'and.'"
+  },
+  {
+      "questionNo": "Q18.",
+      "question": "In the sentence 'my birthday is in october', which word needs to be capitalised?",
+      "options": [
+          "my",
+          "birthday",
+          "october",
+          "Both a and c"
+      ],
+      "correct": 3,
+      "explanation": "The correct sentence will be: 'My birthday is in October.' 'My' is the first word of the sentence and 'October' is a proper noun."
+  },
+  {
+      "questionNo": "Q19.",
+      "question": "Which sentence is correctly capitalised?",
+      "options": [
+          "The empire state building is very tall.",
+          "The Empire State Building is very tall.",
+          "The empire State Building is very tall.",
+          "The Empire state building is very tall."
+      ],
+      "correct": 1,
+      "explanation": "'Empire State Building' is a proper noun, so each word is capitalised."
+  },
+  {
+      "questionNo": "Q20.",
+      "question": "Which sentence uses commas correctly?",
+      "options": [
+          "During the trip, we visited Paris, Rome and, Berlin.",
+          "During the trip, we visited Paris, Rome, and Berlin.",
+          "During the trip, we visited Paris Rome and Berlin.",
+          "None of the above"
+      ],
+      "correct": 1,
+      "explanation": "Commas separate items in a list, and the comma here is used before 'and.'"
+  },
+  {
+      "questionNo": "Q21.",
+      "question": "Fill in the blank with the correct apostrophe form: The __________ (boss) office is on the second floor.",
+      "options": [
+          "boss’s",
+          "boss’"
+      ],
+      "correct": 0,
+      "explanation": "'Boss' is singular, so we add 's to show possession."
+  },
+  {
+      "questionNo": "Q22.",
+      "question": "Choose the correct form: The (children's / childrens') playground is new.",
+      "options": [
+          "children's",
+          "childrens'"
+      ],
+      "correct": 0,
+      "explanation": "'Children' is a plural noun that does not end in 's,' so we add 's to show possession."
+  },
+  {
+      "questionNo": "Q23.",
+      "question": "Which is the correct possessive form for a singular noun?",
+      "options": [
+          "James'",
+          "James's",
+          "Jameses"
+      ],
+      "correct": 1,
+      "explanation": "For singular nouns ending in 's,' we usually add 's to show possession."
+  },
+  {
+      "questionNo": "Q24.",
+      "question": "Which sentence uses the apostrophe correctly?",
+      "options": [
+          "The babies' bottles are in the dishwasher.",
+          "The babies's bottles are in the dishwasher.",
+          "The baby's bottles are in the dishwasher."
+      ],
+      "correct": 0,
+      "explanation": "'Babies' is the plural form of 'baby,' so we add an apostrophe after the 's' to show possession."
+  },
+  {
+      "questionNo": "Q25.",
+      "question": "Fill in the blank with the correct possessive form: The __________ (dogs) collars are different colours.",
+      "options": [
+          "dog’s",
+          "dogs’"
+      ],
+      "correct": 1,
+      "explanation": "'Dogs' is a plural noun, so we add an apostrophe after the 's' to show possession."
+  }
+]
